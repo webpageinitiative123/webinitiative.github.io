@@ -1,2 +1,2 @@
-# webinitiative.github.io
+# webpageinitiative.github.io
 website for begineers
